@@ -5,13 +5,13 @@ description: welcome to my website
 
 ![Banner](/assets/my_website_banner.png)
 
-### Hello there, beautiful people!
+## Hello there, beautiful people!
 
 My name is Florin and I am a **software developer and engineer**, currently living in the beautiful city of **Cluj-Napoca, Romania**.
 
 ---
 
-### Web development knowledge
+## Web development knowledge
 
 My main area of expertise is centered on **web development**.
 Regarding backend, I specialise in **Python & Django + DRF**.
@@ -20,13 +20,13 @@ For the frontend side, I am an **Angular Enterprise** specialist, and also a dev
 
 ---
 
-### DevOps Knowledge
+## DevOps Knowledge
 
 Knowledge regarding **DevOps**, both at the **server** / **network** level, as well as with **Docker**, **Kubernetes** and Cloud Computing Platforms such as **AWS** and **Azure**.
 
 ---
 
-### Useful links
+## Useful links
 
 - [**Facebook**](https://www.facebook.com/florin.scout)
 - [**Twitter**](https://twitter.com/florinscout)
@@ -35,10 +35,10 @@ Knowledge regarding **DevOps**, both at the **server** / **network** level, as w
 
 ---
 
-### Curriculum Vitae
+## Curriculum Vitae
 
 Here you can find my Curriculum Vitae, also downloadable as a PDF.
 
-> #### [**Download PDF**](/assets/cv-florin-tomozei.pdf)
+> ### [**Download PDF**](/assets/cv-florin-tomozei.pdf)
 
 ![CV](/assets/cv-florin-tomozei.png)
