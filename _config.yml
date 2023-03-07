@@ -1,7 +1,9 @@
 theme: minima
-title: Welcome to the mainframe!
+
+title: Florin Tomozei
 description: Software Engineer based in Cluj-Napoca
 author: Florin Tomozei
+
 header_pages:
   - index.md
   - pages/cv.md
