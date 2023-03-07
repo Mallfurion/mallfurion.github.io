@@ -1,16 +1,8 @@
 theme: minima
 title: Welcome to the mainframe!
 description: Software Engineer based in Cluj-Napoca
-author:
-  name: Florin Tomozei
-  email: florin.scouts@gmail.com
+author: Florin Tomozei
 header_pages:
   - index.md
   - pages/about.md
   - pages/projects.md
-minima:
-  social_links:
-    - { platform: facebook, user_url: "https://www.facebook.com/florin.scout" }
-    - { platform: twitter, user_url: "https://twitter.com/florinscout" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/florin-tomozei/" }
-    - { platform: github, user_url: "https://github.com/Mallfurion" }
