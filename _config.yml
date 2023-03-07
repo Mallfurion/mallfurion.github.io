@@ -1,3 +1,7 @@
 theme: minima
 title: Florin Tomozei
 description: Software Engineer
+header_pages:
+  - index.md
+  - pages/about.md
+  - pages/projects.md

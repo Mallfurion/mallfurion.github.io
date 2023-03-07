@@ -1,8 +1,6 @@
 ---
-title: Florin Tomozei
+title: Home
 description: Software Engineer
-
-order: 1
 ---
 
 # Welcome!
