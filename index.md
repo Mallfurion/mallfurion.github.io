@@ -3,6 +3,10 @@ title: Home
 description: welcome to my website
 ---
 
+<style>
+hr { margin: 3rem 0; }
+</style>
+
 ![Banner](/assets/my_website_banner.png)
 
 ## Hello there, beautiful people!
