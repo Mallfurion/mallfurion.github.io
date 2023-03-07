@@ -7,4 +7,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pretium luctus nis
 
 ## Resume
 
-![CV](assets/cv-florin-tomozei.png)
+![CV](/assets/cv-florin-tomozei.png)
