@@ -14,9 +14,13 @@ For the frontend side, I am an **Angular Enterprise** specialist, and also a dev
 
 Knowledge regarding **DevOps**, both at the **server** / **network** level, as well as with **Docker**, **Kubernetes** and Cloud Computing Platforms such as **AWS** and **Azure**.
 
+---
+
 You can also find me at:
 
 - [**Facebook**](https://www.facebook.com/florin.scout)
 - [**Twitter**](https://twitter.com/florinscout)
 - [**Linkedin**](https://www.linkedin.com/in/florin-tomozei/)
 - [**GitHub**](https://github.com/Mallfurion)
+
+---
