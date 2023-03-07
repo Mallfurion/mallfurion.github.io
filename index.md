@@ -5,6 +5,8 @@ description: welcome to my website
 
 ## Hello, there
 
+![Banner](/assets/my_website_banner.png)
+
 My name is Florin and I am a **software developer and engineer**, currently living in the beautiful city of **Cluj-Napoca, Romania**.
 
 My main area of expertise is centered on **web development**.
