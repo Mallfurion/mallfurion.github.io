@@ -5,6 +5,7 @@ description: welcome to my website
 
 <style>
 hr { margin: 3rem 0; }
+h2 { font-weight: bold; margin-bottom: 2rem; }
 </style>
 
 ![Banner](/assets/my_website_banner.png)
