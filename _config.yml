@@ -1,10 +1,9 @@
 theme: minima
 
 title: Florin Tomozei
-description: Software Engineer based in Cluj-Napoca
 author: Florin Tomozei
+description: Software Engineer based in Cluj-Napoca
 
 header_pages:
   - index.md
-  - pages/cv.md
   - pages/projects.md
