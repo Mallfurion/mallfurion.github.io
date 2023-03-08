@@ -3,11 +3,6 @@ title: Home
 description: welcome to my website
 ---
 
-<style>
-hr { margin: 3rem 0; }
-h2 { font-weight: bold; margin-bottom: 2rem; }
-</style>
-
 ![Banner](/assets/images/banner.png)
 
 ## Hello there, beautiful people!
