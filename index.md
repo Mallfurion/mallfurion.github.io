@@ -8,7 +8,7 @@ hr { margin: 3rem 0; }
 h2 { font-weight: bold; margin-bottom: 2rem; }
 </style>
 
-![Banner](/assets/my_website_banner.png)
+![Banner](/assets/images/banner.png)
 
 ## Hello there, beautiful people!
 
@@ -44,6 +44,6 @@ Knowledge regarding **DevOps**, both at the **server** / **network** level, as w
 
 Here you can find my Curriculum Vitae, also downloadable as a PDF.
 
-> ### [**Download PDF**](/assets/cv-florin-tomozei.pdf)
+> ### [**Download PDF**](/assets/docs/cv.pdf)
 
-![CV](/assets/cv-florin-tomozei.png)
+![CV](/assets/images/cv.png)
